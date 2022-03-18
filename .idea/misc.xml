@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/seenu/AndroidStudioProjects/YTStreamer2.0/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1935" />
+        <entry key="..\:/Users/seenu/AndroidStudioProjects/YTStreamer2.0/app/src/main/res/drawable-v24/search.xml" value="0.121" />
+        <entry key="..\:/Users/seenu/AndroidStudioProjects/YTStreamer2.0/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1935" />
+        <entry key="..\:/Users/seenu/AndroidStudioProjects/YTStreamer2.0/app/src/main/res/layout/activity_list_view.xml" value="0.25" />
+        <entry key="..\:/Users/seenu/AndroidStudioProjects/YTStreamer2.0/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/seenu/AndroidStudioProjects/YTStreamer2.0/app/src/main/res/layout/activity_middle.xml" value="0.25" />
+        <entry key="..\:/Users/seenu/AndroidStudioProjects/YTStreamer2.0/app/src/main/res/layout/activity_search.xml" value="0.25" />
+        <entry key="..\:/Users/seenu/AndroidStudioProjects/YTStreamer2.0/app/src/main/res/layout/activity_songs_list.xml" value="0.25" />
+        <entry key="..\:/Users/seenu/AndroidStudioProjects/YTStreamer2.0/app/src/main/res/layout/custom_list.xml" value="0.25" />
+        <entry key="..\:/Users/seenu/AndroidStudioProjects/YTStreamer2.0/app/src/main/res/layout/middle.xml" value="0.22727272727272727" />
+        <entry key="..\:/Users/seenu/AndroidStudioProjects/YTStreamer2.0/app/src/main/res/layout/noresults.xml" value="0.1" />
+        <entry key="..\:/Users/seenu/AndroidStudioProjects/YTStreamer2.0/app/src/main/res/layout/search_layout.xml" value="0.25" />
+        <entry key="..\:/Users/seenu/AndroidStudioProjects/YTStreamer2.0/app/src/main/res/menu/menu.xml" value="0.10989583333333333" />
+        <entry key="..\:/Users/seenu/AndroidStudioProjects/YTStreamer2.0/app/src/main/res/menu/menu_search_activity.xml" value="0.2" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

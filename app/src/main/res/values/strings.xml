@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">YT Streamer 2.0</string>
+    <string name="yt">Thumbnail</string>
+    <string name="default_str">Enter Song Or Video Title</string>
+    <string name="defaultTime">0.00</string>
+    <string name="menu_1">Open in GitHub</string>
+    <string name="menu_2">Download</string>
+    <string name="search">Search</string>
+    <string name="defaultTxt">Search any Song Or Video</string>
+    <string name="current_status">Waiting for song title</string>
+    <string name="open">Search For Something You Love</string>
+    <string name="menu_3">Open in YouTube</string>
+    <string name="contact_developer">Contact Developer</string>
+
+</resources>

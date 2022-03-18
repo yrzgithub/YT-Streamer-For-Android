@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="@string/menu_1"
+        android:id="@+id/git" />
+
+    <item android:title="@string/menu_2"
+        android:id="@+id/download" />
+
+    <item android:title="@string/menu_3"
+        android:id="@+id/openYt" />
+
+    <item android:title="@string/contact_developer"
+        android:id="@+id/contact"/>
+
+    <item android:title="@string/search"
+        android:id="@+id/search"
+        app:actionViewClass="android.widget.SearchView"
+        android:icon="@drawable/search"
+        app:showAsAction="always"
+        />
+
+</menu>
