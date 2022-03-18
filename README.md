@@ -12,8 +12,8 @@ Note : This app gives its best in android 11 and android 12.
 Languages used : java, python, xml.
 
 Features: 
-   No adds.\n
-   Streams YouTube audio
-   Downloads YouTube audio (in Downloads Folder)
+   1. No adds.
+   2. Streams YouTube audio
+   3. Downloads YouTube audio (in Downloads Folder)
 
 ***********************************************************************************
