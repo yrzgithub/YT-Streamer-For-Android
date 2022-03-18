@@ -100,6 +100,7 @@ public class Downloader extends AsyncTask<String,String,String> {
 
         else {
             Toast.makeText(main, "Can't Download Media", Toast.LENGTH_LONG).show();
+            onCancelled();
         }
 
         main.runOnUiThread(new Runnable() {
