@@ -6,7 +6,7 @@ To use this app:
   
   Step 2 : Install it and enjoy.
 
-Download Link : https://drive.google.com/file/d/1EO26MW9XhG-oVWIr7R7B9KNOom14g6M8/view?usp=sharing
+Download Link : https://drive.google.com/file/d/10gPjqIqAjT0zYRHxXvkeG_ATGG5BU5Ay/view?usp=sharing
 
 Note : This app gives its best in android 11 and android 12.
 
