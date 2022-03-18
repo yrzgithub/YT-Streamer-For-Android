@@ -14,6 +14,6 @@ Languages used : java, python, xml.
 Features: 
    No adds.
    Streams YouTube audio
-   Downloads YouTube audio
+   Downloads YouTube audio (in Downloads Folder)
 
 ***********************************************************************************
