@@ -130,7 +130,12 @@ public class Streamer {
     {
         if(downloader==null || !downloader.isDownloading()) {
             downloader = new Downloader(stream_url, name, item, context);
-            downloader.execute();
+            if(!downloader.newFile()) {
+                downloader.execute();
+            }
+            else {
+                Toast.makeText(context,"Filename already exists",Toast.LENGTH_LONG).show();
+            }
             this.context = context;
         }
     }
